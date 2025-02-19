@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Itzel Guadalupe</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+<h1 align="center">Hola 👋, Soy Itzel Guadalupe</h1>
+<h3 align="center">Analista de datos apasionada por transformar datos en decisiones estratégicas</h3>
 
-- 🔭 I’m currently working on [Elotes Gutiérrez](https://michell-cazares.github.io/CH29_FrontEnd_E-commerce/)
+- 🔭 Trabaje en [Elotes Gutiérrez](https://michell-cazares.github.io/CH29_FrontEnd_E-commerce/) y [Almuercito Corazón]
 
-- 🌱 I’m currently learning **React,Node.js**
+- 🌱 Recientemente aprendiendo **SQL, Python**
 
-- 👨‍💻 All of my projects are available at [https://itzelgps.github.io/portafolio/](https://itzelgps.github.io/portafolio/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://itzelgps.github.io/portafolio/](https://itzelgps.github.io/portafolio/)
 
-- 📫 How to reach me **itzelgps99@gmail.com**
+- 📫 Cómo contactar conmigo **itzelgps99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/perezitzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perezitzel" height="30" width="40" /></a>
 </p>
